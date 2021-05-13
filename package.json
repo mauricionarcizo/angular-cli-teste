@@ -13,8 +13,8 @@
   },
   "private": true,
   "dependencies": {
+    "@angular/compiler": "^12.0.0",
     "@angular/common": "^12.0.0",
-    "@angular/compiler": "^11.2.4",
     "@angular/forms": "^12.0.0",
     "@angular/core": "^11.0.2",
     "@angular/http": "^7.2.16",
